@@ -1,4 +1,4 @@
-<h1>DNS Query</h1>
+<h1>Domain Name Service(DNS)</h1>
 <p1> This tutorial outlines how to query DNS, flush DNS, delete a specific record from the DNS. It also covers how to regenerate DNS records, create DNS “A” record manually, not only but also how to create Reverse lookup zones and PTR records. Lastly, a DNS replication server is installed and configured</p1>
 
 <h3>*Display DNS</h3>
@@ -97,7 +97,7 @@
 <br>
 <br>
 
-<h3>*DNS replication </h3>
+<h1>DNS replication </h1>
 <p>DNS replication is the process of copying DNS records from one DNS server to another to ensure consistency and availability of domain name information across multiple servers.</p>
 <p>1. First we need to make sure the new server(proposed for DNS replication) is joined to the Domain Server which the DNS server is on. Then install DNS on the newly joined server. I installed DNS using Windows Powershell command; <b><i>“Install-WindowsFeature-Name DNS -IncludeManagementTools"</i></b> </p>
 <p align="center"><img src="https://i.imgur.com/NDtzqtV.png" height="50%" width="50%"/>
