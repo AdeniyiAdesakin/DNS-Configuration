@@ -1,6 +1,17 @@
 <h1>Domain Name Service(DNS)</h1>
 <p1> This tutorial outlines how to query DNS, flush DNS, delete a specific record from the DNS. It also covers how to regenerate DNS records, create DNS “A” record manually, not only but also how to create Reverse lookup zones and PTR records. Lastly, a DNS replication server is installed and configured</p1>
 
+<h3>*Environments and Technologies Used</h3>
+
+- Windows 11 Pro
+- Domain Name Service (DNS)
+- Powershell
+
+<h3>*Operating System Used</h3>
+
+- Windows Server 2019
+- Windows 11 Pro 
+
 <h3>*Display DNS</h3>
 <p>To view the DNS cache on your computer, open PowerShell on your local computer and enter the following command: <b><I>"ipconfig /displaydns</I></b>"</p>
 <p align="center"><img src="https://i.imgur.com/uiBKyqh.png" height="50%" width="50%"/>
