@@ -12,6 +12,8 @@
 - Windows Server 2019
 - Windows 11 Pro 
 
+<h1>Demonstration and Steps</h1>
+
 <h3>*Display DNS</h3>
 <p>To view the DNS cache on your computer, open PowerShell on your local computer and enter the following command: <b><I>"ipconfig /displaydns</I></b>"</p>
 <p align="center"><img src="https://i.imgur.com/uiBKyqh.png" height="50%" width="50%"/>
